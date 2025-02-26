@@ -86,8 +86,11 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 Integrated Development Environments (IDEs); play a crucial role in the software development process as they provide developers with a centralized platform for writing, editing, compiling, and debugging code. IDEs typically include features like code completion, syntax highlighting, code refactoring tools, and integrated debugging capabilities, which help developers write better code more efficiently. By providing a unified environment for development, IDEs can enhance productivity, collaboration, and code quality.
 
 Example of IDEs:
+
 -Visual Studio:A versatile IDE by Microsoft that supports multiple programming languages and includes a wide range of development tools and extensions.
+
 -IntelliJ IDEA:A powerful IDE for Java development, known for its intelligent code completion, refactoring, and debugging features.
+
 -PyCharm:An IDE specifically designed for Python development, offering advanced features like code analysis, debugging, and support for web frameworks.
 
 Version Control Systems (VCS) are essential tools for managing changes to code and collaborating on software projects. VCS allows developers to track changes, revert to earlier versions, and merge changes made by multiple team members seamlessly.
@@ -151,7 +154,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 Prompt engineering is the process of crafting effective prompts to elicit desired responses from AI models. It involves carefully designing and refining the input queries or instructions given to the AI to achieve specific goals, whether that’s generating text, answering questions, or performing tasks.
 Importance of Prompt Engineering
 
-1. Precision and Clarity: Well-engineered prompts help ensure that the AI model understands the user’s intent clearly, reducing ambiguity and producing more accurate and relevant responses.
+1.Precision and Clarity: Well-engineered prompts help ensure that the AI model understands the user’s intent clearly, reducing ambiguity and producing more accurate and relevant responses.
 
 2.Efficiency: Effective prompts can save time by minimizing the need for back-and-forth clarification. They enable the AI to provide the desired output on the first attempt, making the interaction more efficient.
 
